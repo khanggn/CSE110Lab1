@@ -1,2 +1,1 @@
-# CSE110Lab1
-LabWeek1
+Khang's User Page
