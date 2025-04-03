@@ -70,13 +70,13 @@ I'm also Pokemon addict 💀
 ![Cat Laughing](https://i.pinimg.com/736x/e8/24/40/e824407bf5b8110429762ad625b461e3.jpg)
 
 ### My daily struggles 
-- [ ] try to wake up on time 
-- [ ] try to wake up
-- [x] contemplate life choices
-- [ ] write code that hopefully compiles 🤞
-- [ ] eat food before I turn into a gremlin 
-- [ ] sleep (optional, but highly recommended)
-- [x] procastinate 
+- [ ]  try to wake up on time 
+- [ ]  try to wake up
+- [x]  contemplate life choices
+- [ ]  write code that hopefully compiles 🤞
+- [ ]  eat food before I turn into a gremlin 
+- [ ]  sleep (optional, but highly recommended)
+- [x]  procastinate 
 
 Thanks for reading all the way down here 🙏\
 [Click Here to go Back Up ⬆️](#hello-im-khang-nguyen)
